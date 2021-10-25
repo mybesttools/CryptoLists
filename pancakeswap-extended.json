@@ -19,7 +19,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
-    },    
+    }, 
+    {
+      "name": "Donkey Token",
+      "symbol": "DON",
+      "address": "0x86b3f23b6e90f5bbfac59b5b2661134ef8ffd255",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/donkeyfinance_32.png"
+    }, 
     {
       "name": "WEYU Token",
       "symbol": "WEYU",
